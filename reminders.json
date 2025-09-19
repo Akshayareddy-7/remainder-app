@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "message": "Start studying",
+    "datetime": "2025-06-29 15:16",
+    "status": "Completed",
+    "notified": true
+  },
+  {
+    "id": 2,
+    "message": "Hey Drink water",
+    "datetime": "2025-06-29 15:04",
+    "status": "Completed",
+    "notified": true
+  },
+  {
+    "id": 3,
+    "message": "Have a Meet",
+    "datetime": "2025-07-07 20:00",
+    "status": "Active",
+    "notified": false
+  }
+]
